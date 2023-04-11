@@ -1,4 +1,4 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Luc Duc Khoi</h1>
 <h3 align="center">All the love for programming...</h3>
 <img align ="right" alt = "Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
